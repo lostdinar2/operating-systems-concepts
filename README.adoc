@@ -1,5 +1,6 @@
 == Operating Systems
 An asciidoc document for http://www.csc.lsu.edu/~fchen/class/csc4103-sp15/[CSC 4103: Operating Systems, Spring 2015] and Abraham Silberschatz-Operating System Concepts book.
+
 * Nearly all credit to authors Silberschatz, Galvin, and Gagne and course
 instructor http://www.csc.lsu.edu/~fchen/[Dr. Feng Chen].
 
