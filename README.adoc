@@ -1,0 +1,11 @@
+== Operating Systems
+An asciidoc document for http://www.csc.lsu.edu/~fchen/class/csc4103-sp15/[CSC 4103: Operating Systems, Spring 2015].
+* Nearly all credit to authors Silberschatz, Galvin, and Gagne and course
+instructor http://www.csc.lsu.edu/~fchen/[Dr. Feng Chen].
+
+=== Installation
+....
+git clone https://github.com/lostdinar2/operating-systems-concepts.git
+cd operating-systems-concepts
+asciidoctor operating-systems-concepts.asciidoc
+....
